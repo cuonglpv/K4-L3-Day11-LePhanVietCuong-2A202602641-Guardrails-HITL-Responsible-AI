@@ -4,6 +4,10 @@
 > 🎯 **Mục tiêu:** xây **Blue** (phòng thủ), rồi red-team **Red** + **Red Advance**.  
 > ✅ Làm theo **Checkpoint 1 → 5** trong [`CHECKPOINTS.md`](CHECKPOINTS.md) · nộp theo [`SUBMISSION.md`](SUBMISSION.md).
 
+| Họ và tên | MSSV |
+|-----------|------|
+| Lê Phan Việt Cường | 2A202602641 |
+
 ---
 
 ## Thời lượng
